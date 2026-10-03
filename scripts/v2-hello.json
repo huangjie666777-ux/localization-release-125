@@ -1,0 +1,9 @@
+{
+  "expectedVersion": 1,
+  "base": "en",
+  "fallback": { "zh": "en" },
+  "messages": {
+    "en": { "hello": "Hi {name}." },
+    "zh": { "hello": "你好，{name}。" }
+  }
+}

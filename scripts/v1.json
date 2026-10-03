@@ -1,0 +1,15 @@
+{
+  "expectedVersion": 0,
+  "base": "en",
+  "fallback": { "zh-Hant": "zh", "zh": "en" },
+  "messages": {
+    "en": {
+      "photos": "{gender, select, female {{count, plural, offset:1 =0 {no photos} =1 {her photo} other {her # photos}}} other {{count, plural, offset:1 =0 {no photos} =1 {one photo} other {# photos}}}}",
+      "hello": "Hello {name}!"
+    },
+    "zh": {
+      "photos": "{gender, select, female {{count, plural, offset:1 =0 {无照片} =1 {她的照片} other {她的#张照片}}} other {{count, plural, offset:1 =0 {无照片} =1 {一张照片} other {#张照片}}}}"
+    },
+    "zh-Hant": {}
+  }
+}

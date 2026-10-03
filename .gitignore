@@ -10,3 +10,5 @@ target/
 *.sqlite-*
 *.log
 .idea/
+data/
+.idea/
